@@ -1,5 +1,5 @@
 INSERT INTO 
-  northwind.details (order_id, product_id, quantity,
+  northwind.order_details (order_id, product_id, quantity,
   unit_price, discount, status_id, date_allocated,
   purchase_order_id, inventory_id )
 VALUES 
