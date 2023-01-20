@@ -1,5 +1,5 @@
 # All For One 
-20º projeto na Trybe. Um projeto para praticar criação de queries CRUD de MySql.
+19º projeto na Trybe. Um projeto para praticar criação de queries CRUD de MySql.
 
 ## Tecnologias empregadas:
 
